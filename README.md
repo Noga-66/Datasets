@@ -27,9 +27,15 @@
 
 [IoT Telemetry Data](https://universe.roboflow.com/search?q=class%3Aleak).
 
+[Water network data with real leaks and simulation](https://battledim.ucy.ac.cy/?utm_source=chatgpt.com)
+
 [Leakage Repairs Dataset](https://github.com/KIOS-Research/Leakage-Repairs-Dataset).
 
+[Labeled anomaly time-series dataset](https://github.com/numenta/NAB)
 
+[Smoke detection Dataset](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset)
+
+[Time-series data from industrial sensors with faults/failures](https://github.com/waico/skab)
 
 
 
@@ -43,6 +49,9 @@
 
 
 
+4-(Geo Agent)
+
+[Geofabrik — Egypt](https://download.geofabrik.de/africa/egypt.html?utm_source=chatgpt.com)
 
 
 
