@@ -2,7 +2,10 @@
 
 
 1-(Vision Agent Datasets)
+
  [Car Crashes](https://universe.roboflow.com/search?q=class%3Acar+crash).
+
+  [Car Crashes](https://github.com/Cogito2012/CarCrashDataset).
  
  [Fire & Smoke](https://universe.roboflow.com/search?q=class%3Asmoke).
  
@@ -16,3 +19,9 @@
  
  [Water Leakage](https://universe.roboflow.com/search?q=class%3Aleak).
  
+2-(Sensor Agent)
+
+[IoT Telemetry Data](https://universe.roboflow.com/search?q=class%3Aleak).
+
+
+
