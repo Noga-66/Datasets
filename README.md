@@ -35,7 +35,6 @@
 - **الكود:** https://github.com/pedropro/TACO
 - **نسخة ثابتة على Zenodo:** https://zenodo.org/records/3354286
 - **الورقة:** https://arxiv.org/abs/2003.06975
-- **تنبيه:** TACO بيصوّر مخلفات متفرقة (litter)، مش حاويات طافحة. لـ "تراكم القمامة" ابحثي في Roboflow Universe عن "garbage overflow" أو "waste pile". ما اتأكدش من داتا بعينها، وغالبًا هتحتاجي تضيفي صور من عندك.
 
 #### المياه والفيضان: FloodNet (استخدام محدود)
 - **الاسم:** FloodNet: صور طائرات مسيّرة (UAV) بعد إعصار هارفي، فيها segmentation وVQA.
