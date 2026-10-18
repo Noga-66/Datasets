@@ -50,10 +50,15 @@
 - **تدفق المياه:** ما اتلاقتش داتا عامة مناسبة. سجّلي قراءات YF-S201 الطبيعية وغير الطبيعية بنفسك. وده أصلًا مطلوب للـ calibration وتحديد الـ thresholds (`HARD_THRESHOLD` و`NORMAL_MAX`).
 
 [BattLeDIM](https://github.com/KIOS-Research/BattLeDIM)
+
 [LeakDB](https://github.com/KIOS-Research/LeakDB)
+
 [Numenta Anomaly](https://github.com/numenta/NAB)
+
 [Smoke Detection Dataset](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset)
+
 [UCI Gas Sensor Array Drift](https://archive.ics.uci.edu/dataset/224/gas+sensor+array+drift+dataset)
+
 
 ### 3. الخرائط (للـ Geo Agent)
 
