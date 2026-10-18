@@ -1,11 +1,6 @@
 # Ain Al-Madina AI — Project Skeleton
 
-## قرارات مهمة
-- **حالات الحادث** = حالات البروبوزال: `DETECTED → ANALYZED → FUSED → PRIORITIZED → ASSIGNED → RESOLVED → VERIFIED` (+ `REOPENED`).
-- `pipeline_worker` **نسخة واحدة** (علشان الـ Fusion ما يعملش حادثين لنفس المشكلة).
-- كل threshold في `HARD_THRESHOLD` و`NORMAL_MAX` و`.env` هو **افتراض** لازم يتظبط بعد calibration الحساسات.
-- إحداثيات `scripts/seed.py` مؤقتة: غيّريها لموقع المجسم. ولأن المجسم صغير، اضبطي `FUSION_RADIUS_M`.
-- Kafka بـ broker واحد = prototype فقط.
+
 
 ---
 
