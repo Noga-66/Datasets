@@ -1,0 +1,15 @@
+# bridge: يقرأ كل قراءات الحساسات وينشر أوامر الـ LED
+user bridge
+topic read city/sensors/#
+topic write city/leds/#
+
+# كل ESP32 ينشر على topic بتاعه فقط
+user esp32_water_01
+topic write city/sensors/water_01
+
+user esp32_smoke_01
+topic write city/sensors/smoke_01
+
+# المحاكاة
+user simulator
+topic write city/sensors/#

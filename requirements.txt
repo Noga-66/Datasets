@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlalchemy>=2
+psycopg[binary]
+confluent-kafka
+paho-mqtt>=2
+minio
+PyJWT
+bcrypt
+python-multipart
+numpy
+# اختياري للـ Vision (ثقيل): ultralytics
+Pillow
