@@ -42,10 +42,13 @@
 - **الورقة:** https://arxiv.org/abs/2012.02951
 - **تنبيه:** الصور من فوق بالدرون، مش من كاميرا شارع، فمش مناسبة لكاميرات المجسم. ما اتلاقتش داتا مناسبة لتراكم مياه في الشارع، فالأفضل تصوري بنفسك على المجسم.
 
-#### الحوادث المرورية (اختياري)
-- **الاسم:** CADP (Car Accident Detection and Prediction): 1,416 مقطع فيديو من YouTube، منها 205 بتعليق كامل.
-- **الرابط:** https://www.v7labs.com/open-datasets/cadp
-- بما إنها فيديوهات من YouTube، راجعي شروط الاستخدام قبل ما تعتمدي عليها.
+#### الحوادث المرورية
+
+[Accident Detection From CCTV Footage (Kaggle)](https://www.kaggle.com/datasets/ckay16/accident-detection-from-cctv-footage)
+
+[DoTA (Detection of Traffic Anomaly](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly)
+
+[Roboflow Universe search {vehicle crash ,car accident}](https://universe.roboflow.com/)
 
 ### 2. الحساسات (للـ Sensor Agent)
 
