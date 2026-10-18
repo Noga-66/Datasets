@@ -16,7 +16,6 @@
 | الحوادث المرورية | **DoTA** (Detection of Traffic Anomaly) | كشف الشذوذ المروري | [GitHub](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly) |
 | الحوادث المرورية | **Roboflow Universe** | ابحثي عن: `vehicle crash`, `car accident` | [Roboflow](https://universe.roboflow.com/) |
 
-> **D-Fire:** رابط GAIA من المعرفة وما اتفتحش وقت البحث. لو ما اشتغلش، جرّبي النسخة المنقولة.
 
 ---
 
@@ -44,7 +43,7 @@
 | **MapTiler** | نسخة جاهزة بصيغة vector tiles | [MapTiler Egypt](https://data.maptiler.com/downloads/dataset/osm/africa/egypt) |
 
 
-```bash
+```
 
 ```
 
