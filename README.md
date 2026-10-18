@@ -54,6 +54,12 @@
 - **BME688/BME690 Smoke Dataset:** 131,370 عينة من حساسات غاز، لكن بحساسات Bosch مش MQ-2: https://data.mendeley.com/datasets/48j7mm8k56
 - **تدفق المياه:** ما اتلاقتش داتا عامة مناسبة. سجّلي قراءات YF-S201 الطبيعية وغير الطبيعية بنفسك. وده أصلًا مطلوب للـ calibration وتحديد الـ thresholds (`HARD_THRESHOLD` و`NORMAL_MAX`).
 
+[BattLeDIM](https://github.com/KIOS-Research/BattLeDIM)
+[LeakDB](https://github.com/KIOS-Research/LeakDB)
+[Numenta Anomaly](https://github.com/numenta/NAB)
+[Smoke Detection Dataset](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset)
+[UCI Gas Sensor Array Drift](https://archive.ics.uci.edu/dataset/224/gas+sensor+array+drift+dataset)
+
 ### 3. الخرائط (للـ Geo Agent)
 
 - **OpenStreetMap عبر Geofabrik:** بتنزلي extract مصر (ملفات `.osm.pbf` أو shapefile)، ومنها تطلعي الطرق والمستشفيات والمدارس ومراكز الشرطة والإطفاء.
