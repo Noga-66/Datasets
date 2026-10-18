@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 # Ain Al-Madina AI — مصادر البيانات (Data Sources)
 
 
@@ -52,6 +44,8 @@
 | **MapTiler** | نسخة جاهزة بصيغة vector tiles | [MapTiler Egypt](https://data.maptiler.com/downloads/dataset/osm/africa/egypt) |
 
 
+```bash
+
 ```
 
 ---
@@ -73,8 +67,3 @@
 | بلاغات المواطنين بالعامية المصرية | توليد بـ LLM + مراجعة يدوية لـ 50–100 مثال |
 | لوائح الإدارات للـ RAG (اختياري) | وثائق رسمية عامة من الجهات نفسها |
 | Ground truth للتقييم | 50–100 سيناريو معلَّم يدويًا في `data/eval/` |
-
-[Open311](https://www.open311.org/)
-
-
-
