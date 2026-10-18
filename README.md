@@ -78,6 +78,18 @@
 | لوائح الإدارات للـ RAG (اختياري) | وثائق رسمية عامة من الجهات نفسها |
 | Ground truth للتقييم | 50–100 سيناريو معلَّم يدويًا في `data/eval/` |
 
+
+  (Report Agent) (LLM or vision ) هنجمع الداتا 
+
+[311 NYC](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-Present/erm2-nwe9/about_data)
+[Open311](https://www.open311.org/)
+
+
+
+
+
+  
+
 ### ترتيب التدريب المقترح
 1. درّبي YOLO على RDD2022 + D-Fire + TACO معًا بعد توحيد الفئات في `models/vision/dataset.yaml`.
 2. ضيفي صور المجسم والصور المحلية كـ fine-tuning.
