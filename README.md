@@ -52,8 +52,6 @@
 | **MapTiler** | نسخة جاهزة بصيغة vector tiles | [MapTiler Egypt](https://data.maptiler.com/downloads/dataset/osm/africa/egypt) |
 
 
-```bash
-python -m backend.scripts.load_gis data/gis/places.geojson
 ```
 
 ---
