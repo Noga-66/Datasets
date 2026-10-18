@@ -19,7 +19,7 @@
 - **التحميل:** https://figshare.com/articles/dataset/RDD2022_-_The_multi-national_Road_Damage_Dataset_released_through_CRDDC_2022/21431547
 - **الورقة العلمية (للتقرير):** https://arxiv.org/abs/2209.08538 أو https://doi.org/10.1002/gdj3.260
 
-[pothole](https://www.kaggle.com/datasets/andrewmvd/pothole-detection)
+-الحفر[pothole](https://www.kaggle.com/datasets/andrewmvd/pothole-detection)
 
 
 
@@ -40,7 +40,7 @@
 - **الاسم:** FloodNet: صور طائرات مسيّرة (UAV) بعد إعصار هارفي، فيها segmentation وVQA.
 - **التحميل:** https://github.com/BinaLab/FloodNet-Supervised_v1.0
 - **الورقة:** https://arxiv.org/abs/2012.02951
-- **تنبيه:** الصور من فوق بالدرون، مش من كاميرا شارع، فمش مناسبة لكاميرات المجسم. ما اتلاقتش داتا مناسبة لتراكم مياه في الشارع، فالأفضل تصوري بنفسك على المجسم.
+
 
 #### الحوادث المرورية
 
