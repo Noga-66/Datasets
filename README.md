@@ -18,7 +18,10 @@
 - **الفئات:** شروخ طولية وعرضية وتمساحية، وحفر.
 - **التحميل:** https://figshare.com/articles/dataset/RDD2022_-_The_multi-national_Road_Damage_Dataset_released_through_CRDDC_2022/21431547
 - **الورقة العلمية (للتقرير):** https://arxiv.org/abs/2209.08538 أو https://doi.org/10.1002/gdj3.260
-[pothole](-https://www.kaggle.com/datasets/andrewmvd/pothole-detection)
+
+[pothole](https://www.kaggle.com/datasets/andrewmvd/pothole-detection)
+
+
 
 #### الحريق والدخان: D-Fire
 - **الاسم:** D-Fire: أكتر من 21,000 صورة (21,527 حسب الأوراق)، بصيغة YOLO جاهزة، وفيها صور "ملخبطة" (غروب، ضباب) تقلل الإنذارات الكاذبة.
