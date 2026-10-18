@@ -7,7 +7,7 @@
 
 
 # Ain Al-Madina AI — مصادر البيانات (Data Sources)
-.
+
 
 ---
 
@@ -51,8 +51,6 @@
 | **Overpass API** | لو محتاجة منطقة صغيرة بس (مدينتك أو الجامعة) بدل تحميل مصر كلها | [Overpass Turbo](https://overpass-turbo.eu) |
 | **MapTiler** | نسخة جاهزة بصيغة vector tiles | [MapTiler Egypt](https://data.maptiler.com/downloads/dataset/osm/africa/egypt) |
 
-- **الترخيص: ODbL**، ولازم تذكري "© OpenStreetMap contributors" في التقرير.
-- بعد ما تطلعي المدارس والمستشفيات في ملف GeoJSON، حمّليها بالأمر:
 
 ```bash
 python -m backend.scripts.load_gis data/gis/places.geojson
